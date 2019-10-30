@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: df3a3d3b89b0b3a41bf829d463f0741e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabin
+    100002: //RootNode
+    100004: Snow1
+    100006: Snow10
+    100008: Snow11
+    100010: Snow12
+    100012: Snow13
+    100014: Snow14
+    100016: Snow15
+    100018: Snow2
+    100020: Snow3
+    100022: Snow4
+    100024: Snow5
+    100026: Snow6
+    100028: Snow7
+    100030: Snow8
+    100032: Snow9
+    400000: Cabin
+    400002: //RootNode
+    400004: Snow1
+    400006: Snow10
+    400008: Snow11
+    400010: Snow12
+    400012: Snow13
+    400014: Snow14
+    400016: Snow15
+    400018: Snow2
+    400020: Snow3
+    400022: Snow4
+    400024: Snow5
+    400026: Snow6
+    400028: Snow7
+    400030: Snow8
+    400032: Snow9
+    2100000: RoofMat
+    2100002: Snow
+    2100004: UnderRoofMat
+    2100006: LogCapsMat
+    2100008: WoodMat
+    2100010: DoorFrameMat
+    2100012: GroundMat
+    2300000: Cabin
+    2300002: Snow1
+    2300004: Snow10
+    2300006: Snow11
+    2300008: Snow12
+    2300010: Snow13
+    2300012: Snow14
+    2300014: Snow15
+    2300016: Snow2
+    2300018: Snow3
+    2300020: Snow4
+    2300022: Snow5
+    2300024: Snow6
+    2300026: Snow7
+    2300028: Snow8
+    2300030: Snow9
+    3300000: Cabin
+    3300002: Snow1
+    3300004: Snow10
+    3300006: Snow11
+    3300008: Snow12
+    3300010: Snow13
+    3300012: Snow14
+    3300014: Snow15
+    3300016: Snow2
+    3300018: Snow3
+    3300020: Snow4
+    3300022: Snow5
+    3300024: Snow6
+    3300026: Snow7
+    3300028: Snow8
+    3300030: Snow9
+    4300000: Cabin
+    4300002: Snow1
+    4300004: Snow2
+    4300006: Snow3
+    4300008: Snow4
+    4300010: Snow5
+    4300012: Snow6
+    4300014: Snow7
+    4300016: Snow8
+    4300018: Snow9
+    4300020: Snow10
+    4300022: Snow11
+    4300024: Snow12
+    4300026: Snow13
+    4300028: Snow14
+    4300030: Snow15
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFrameMat
+    second: {fileID: 2100000, guid: 829e3a8b863fffb4d8577241e22cbd29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GroundMat
+    second: {fileID: 2100000, guid: 8132205e37c5ddf4190dcccd00f6bf74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LogCapsMat
+    second: {fileID: 2100000, guid: 35f82b6dd4931094ca8c733c1816a7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMat
+    second: {fileID: 2100000, guid: 612c2203d7d71394b81627c9b70c1477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow
+    second: {fileID: 2100000, guid: a35f31800d8698749b8173dcc64ba21b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UnderRoofMat
+    second: {fileID: 2100000, guid: e163c1eb06c2e6f4cbb93305fb9ddbeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodMat
+    second: {fileID: 2100000, guid: dc78646f6f95f854b8f381e0400f87b7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
