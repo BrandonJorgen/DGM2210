@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 95591f0a317675a46acc72e218a29433
+guid: 58b3aaf20ef8ea442b9758cccee92b60
 SpeedTreeImporter:
   externalObjects: {}
   serializedVersion: 5
   mainColor: {r: 1, g: 1, b: 1, a: 1}
   hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
   alphaTestRef: 0.33
-  bestWindQuality: 4
+  bestWindQuality: 5
   hasBillboard: 0
   lODSettings:
   - height: 0.01
@@ -17,7 +17,7 @@ SpeedTreeImporter:
     enableBump: 1
     enableHue: 1
     enableSubsurface: 1
-    windQuality: 4
+    windQuality: 5
   enableSmoothLODTransition: 1
   animateCrossFading: 1
   billboardTransitionCrossFadeWidth: 0.25
