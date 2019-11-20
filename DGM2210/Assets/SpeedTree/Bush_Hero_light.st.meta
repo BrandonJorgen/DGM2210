@@ -17,7 +17,7 @@ SpeedTreeImporter:
     enableBump: 1
     enableHue: 1
     enableSubsurface: 1
-    windQuality: 0
+    windQuality: 1
   enableSmoothLODTransition: 1
   animateCrossFading: 1
   billboardTransitionCrossFadeWidth: 0.25

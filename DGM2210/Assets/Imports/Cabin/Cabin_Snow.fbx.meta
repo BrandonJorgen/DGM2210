@@ -102,7 +102,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GroundMat
-    second: {fileID: 2100000, guid: 8132205e37c5ddf4190dcccd00f6bf74, type: 2}
+    second: {fileID: 2100000, guid: a35f31800d8698749b8173dcc64ba21b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -112,7 +112,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: RoofMat
-    second: {fileID: 2100000, guid: 612c2203d7d71394b81627c9b70c1477, type: 2}
+    second: {fileID: 2100000, guid: a35f31800d8698749b8173dcc64ba21b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
