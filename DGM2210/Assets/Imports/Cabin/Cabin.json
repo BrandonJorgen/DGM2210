@@ -33,19 +33,19 @@
         }
     },
     "texturesets": {
-        "1001": {
+        "Door Frame": {
             "shader": "Main shader"
         },
-        "1002": {
+        "Log Caps": {
             "shader": "Main shader"
         },
-        "1003": {
+        "Snow": {
             "shader": "Main shader"
         },
-        "1004": {
+        "Under Roof": {
             "shader": "Main shader"
         },
-        "1005": {
+        "Wood Logs": {
             "shader": "Main shader"
         }
     }
